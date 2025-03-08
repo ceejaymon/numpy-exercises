@@ -1,0 +1,1 @@
+Assignment on numpy. It could come very handful to those willing to learn arrays
